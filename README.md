@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalmix
-- 👀 I’m interested in Full-Stack Develompment, Exploit Development
+- 👀 I’m interested in Full-Stack Develompment and Exploit Development
 - 🌱 I’m currently learning React, Django
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me kalmixdev@gmail.com
