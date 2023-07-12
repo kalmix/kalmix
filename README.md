@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @kalmix
-- 👀 I’m interested in Full-Stack Develompment and Exploit Development
-- 🌱 I’m currently learning React, Django
-- 💞️ I’m looking to collaborate on Open Source
+- 👋 Hi, I’m @kalmix.
+- 👀 I’m interested in Full-Stack Develompment, Exploit Development and AI.
+- 🌱 I’m currently learning Django, Desktop Development, Reverse Engineering.
+- 💞️ I’m looking to collaborate on Open Source and Internships!
 - 📫 How to reach me kalmixdev@gmail.com
+  
+ ![Kalmix Stats](https://github-readme-stats.vercel.app/api?username=kalmix&theme=transparent&show_icons=true)\
+ \
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalmix&layout=donut&hide=html,css,scss&theme=transparent&show_icons=true)
 
-[![Kalmix Stats](https://github-readme-stats.vercel.app/api?username=kalmix)](https://github.com/kalmix)
 
 <!---
 kalmix/kalmix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
