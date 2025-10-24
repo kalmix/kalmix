@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalmix.
-- 👀 I’m interested in Full-Stack Develompment, Exploit Development and AI.
-- 🌱 I’m currently learning Windows App Development, Full-Stack Development.
+- 👀 I’m interested in Full-Stack Develompment, Cybersecurity, AI/ML, Computer Graphics and other related topics.
+- 🌱 I’m currently learning Windows App Development (Windows SDK), Unity... (there's more but I won't tell you 😁)
 - 💞️ I’m looking to collaborate on Open Source and Internships!
 - 📫 How to reach me kalmixdev@gmail.com
   
