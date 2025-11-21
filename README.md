@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source and Internships!
 - 📫 How to reach me kalmixdev@gmail.com
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalmix&layout=donut&hide=html,css,scss,js&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalmix&layout=donut&hide=html,css,scss,javascript&theme=transparent&show_icons=true)
 
 
 <!---
